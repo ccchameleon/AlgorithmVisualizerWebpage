@@ -11,4 +11,4 @@ So far, bubble sort has been implemented, and I've learned a great deal and had 
 Here is how it is currently looking:
 
 ![alt text](image.png)
-![name]([Sorting Algo Visualizer — Mozilla Firefox 2024-08-28 15-31-36.gif](https://github.com/ccchameleon/AlgorithmVisualizerWebpage/blob/main/Sorting%20Algo%20Visualizer%20%E2%80%94%20Mozilla%20Firefox%202024-08-28%2015-31-36.gif))
+![Sorting Algo Visualizer — Mozilla Firefox 2024-08-28 15-31-36](https://github.com/user-attachments/assets/6fa1e547-0151-49b9-b76e-93bbbd0d8a58)
