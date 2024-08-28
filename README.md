@@ -10,4 +10,4 @@ So far, bubble sort has been implemented, and I've learned a great deal and had 
 
 Here is how it is currently looking:
 
-![alt text](Sorting Algo Visualizer — Mozilla Firefox 2024-08-28 15-25-20.mp4)
+![alt text](image.png)
