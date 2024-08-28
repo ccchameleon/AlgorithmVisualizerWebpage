@@ -9,3 +9,5 @@ I will also implement the (big O, theta, omega notations as well either before o
 So far, bubble sort has been implemented, and I've learned a great deal and had a lot of fun getting it to work.
 
 Next is some scaling, some polish, then moving on to more sorting algorithms.
+
+![alt text](image.png)
