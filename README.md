@@ -8,7 +8,5 @@ I will also implement the (big O, theta, omega notations as well either before o
 
 So far, bubble sort has been implemented, and I've learned a great deal and had a lot of fun getting it to work.
 
-Here is how it is currently looking:
-
-![alt text](image.png)
+Here is a quick sample:
 ![Sorting Algo Visualizer — Mozilla Firefox 2024-08-28 15-31-36](https://github.com/user-attachments/assets/6fa1e547-0151-49b9-b76e-93bbbd0d8a58)
