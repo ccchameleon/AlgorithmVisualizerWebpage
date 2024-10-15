@@ -1,9 +1,17 @@
 body{
-    background-color: #564e63;
+    background-color: #aaa3b4;
 }
 
 h1 {
-    color: #b7acce;
+    color: #000000;
+    background-color: rgb(177, 181, 211);
+    text-align: center;
+    border-color: rgb(252, 252, 252);
+    border-width: 100px;
+}
+
+h3 {
+    color: #dfdbe7;
     /* background-color: rgb(234, 235, 242); */
     text-align: center;
     border-color: black;
