@@ -1,14 +1,19 @@
-body{
-    background-color: #aaa3b4;
+header{
+    min-height: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #fafafa;
+    border: 1px solid #d4d4d4;
+    background-image: linear-gradient(to bottom, #fff, #f2f2f2);
 }
 
-h1 {
+/* h1 {
     color: #000000;
     background-color: rgb(177, 181, 211);
     text-align: center;
     border-color: rgb(252, 252, 252);
     border-width: 100px;
-}
+} */
 
 h3 {
     color: #dfdbe7;
@@ -26,12 +31,15 @@ h3 {
 }
 
 .barContainer{
-    display:flex;
-    /* display:inline-flex; */
-    flex-direction:row;
-    align-items:baseline;
-    height: 100px;
-    transition: height 0.66s ease-out;
+    /* text-align: center;*/
+    max-width: 50vw;
+    /* height: 25vh; */
+    /* width: 100%; */
+    margin: 0 auto;
+    display: flex;
+    /* flex-direction: row; */
+    align-items: baseline;
+    /* justify-content: space-between; */
 }
 
 .bar{
@@ -45,13 +53,12 @@ h3 {
 
 .containers{
     text-align: center;
-    max-width: 50vw;
+    max-width: 30vw;
     height: 25vh;
     width: 100%;
     margin: 0 auto;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 0 px;
 }

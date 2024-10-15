@@ -35,7 +35,7 @@ function renderBar(arr){
         bar.style.position = "relative";
         bar.style.alignItems = "baseline";
         bar.style.height = arr[i] * barScale +"px";
-        barContainer.appendChild(bar);
+         bars.appendChild(bar);
     }
 };
 
@@ -48,7 +48,7 @@ function barCount(){
         new Notification("Not enough bars!")
         return;
     }
-    barContainer.innerHTML="";
+     bars.innerHTML="";
     unsortedArr = new Array(numOfBars);
     createRandomArray();
     renderBar(unsortedArr);
@@ -118,7 +118,7 @@ document.addEventListener("DOMContentLoaded", function(){
 document.addEventListener("DOMContentLoaded", function(){
     const randomize_btn = document.getElementById("randomizeBtn");
     randomize_btn.addEventListener("click", function(){
-        barContainer.innerHTML="";
+         bars.innerHTML="";
         createRandomArray();
         renderBar(unsortedArr);
     })
